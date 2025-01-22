@@ -1,6 +1,6 @@
 # Hi there 👋 Welcome to the agustina's Github
 
-<p>I'm a Full-stack developer student at Coderhouse</p><br>
+<p>I'm a Full-stack developer student</p><br>
 
 <img src="https://media.giphy.com/media/G3xHGIDU9LONNZQJid/giphy.gif?cid=ecf05e47t8glg7cyparoifv7gxah23dloh3z5je5jh4pwgp9&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200"/>
 
