@@ -1,43 +1,85 @@
-# Hi there 👋 Welcome to the agustina's Github
-
-<p>I'm a Full-stack developer student</p><br>
-
-<img src="https://media.giphy.com/media/G3xHGIDU9LONNZQJid/giphy.gif?cid=ecf05e47t8glg7cyparoifv7gxah23dloh3z5je5jh4pwgp9&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200"/>
-
-### Skills
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%23E1F5FE&size=30&center=true&vCenter=true&width=600&height=100&lines=Hola,+Soy+Agustina+👋;Full+Stack+Developer+💻;✨+✨+✨+✨">
+  </a>
 </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=agusconst001&theme=tokyonight&show_icons=true" />
-  <br></br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=agusconst001&theme=tokyonight" /></td>
-
-<td width="50%" align="center">
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=agusconst001&theme=tokyonight" /></td>
-</tr>
-</table>
+  <img src="https://media.giphy.com/media/G3xHGIDU9LONNZQJid/giphy.gif" width="200"/>
+</p>
 
 ---
-<!-- Activity Graph card -->
-</br>
-</br>
-<h2>Activity Graph</h2>
 
-![Agus's Graph](https://github-readme-activity-graph.vercel.app/graph?username=agusconst001&custom_title=Agus's%20GitHub%20Activity%20Graph&bg_color=0d1017&color=FF6B6B&line=FF6B6B&point=FFA3A3&area_color=FFA3A3&title_color=FFFFFF&area=true)<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+### 🛠️ Tech Stack
 
-![Static Badge](https://img.shields.io/badge/Thanks%20for%20visiting!-05122A)
-![Static Badge](https://img.shields.io/badge/Star%20%E2%AD%90%20some%20repositories%20you%20find%20helpful!%20-05122A)
-![GitHub followers](https://img.shields.io/github/followers/agusconst001?style=flat&logo=github&color=05122A&labelColor=05122A)
-![Profile Views](https://komarev.com/ghpvc/?username=agusconst001&style=flat&labelolor=05122A&color=05122A)
+**Lenguajes y Frameworks**  
+<span>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+</span>
+
+**Frontend**  
+<span>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+</span>
+
+**Herramientas y Plataformas**  
+<span>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+</span>
+
+**IDEs**  
+<span>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</span>
+
 ---
+
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=agusconst001&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=agusconst001&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agusconst001&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🔥 Actividad Reciente
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=agusconst001&theme=tokyonight&hide_border=true&area=true&custom_title=Mi+Actividad+en+GitHub)
+
+---
+
+### ✨ Frase Aleatoria para Desarrolladores
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=agusconst001&style=flat-square&color=blue" alt="Visitas al perfil"/>
+  <a href="https://github.com/agusconst001?tab=followers">
+    <img src="https://img.shields.io/github/followers/agusconst001?label=Followers&style=social" alt="Seguidores"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/agusconst001?tab=repositories">
+    <img src="https://img.shields.io/badge/⭐_Star_my_repos_if_you_like_them!-blue?style=for-the-badge" alt="Star repos"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/¡Gracias_por_visitar!-brightgreen?style=for-the-badge" alt="Gracias"/>
+</p>
